@@ -18,4 +18,4 @@ Linkedin: www.linkedin.com/in/tyler-scott-0207a3220
 
 [Sign-up-Form](https://github.com/TyGuy1204/Sign-up-form) - Basic sign-up form with simple validation
 
-[Admin-Dashboard](https://tyguy1204.github.io/Admin-Dashboard/) - Customizable template for an Admin Dashboard on a webpage
+[Admin-Dashboard](https://github.com/TyGuy1204/Admin-Dashboard) - Customizable template for an Admin Dashboard on a webpage
