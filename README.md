@@ -16,4 +16,6 @@ Linkedin: www.linkedin.com/in/tyler-scott-0207a3220
 
 [Calculator](https://github.com/TyGuy1204/Calculator) - Basic calculator that handles multiplication, division, addition, subtraction, decimals, modulo and negatives
 
-[Sign-up-Form](https://github.com/TyGuy1204/Sign-up-form) - 
+[Sign-up-Form](https://github.com/TyGuy1204/Sign-up-form) - Basic sign-up form with simple validation
+
+[Admin-Dashboard](https://tyguy1204.github.io/Admin-Dashboard/) - Customizable template for an Admin Dashboard on a webpage
